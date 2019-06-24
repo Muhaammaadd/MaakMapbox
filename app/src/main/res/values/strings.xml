@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaakMapbox</string>
+    <string name="access_token">pk.eyJ1IjoibXVoYWFtbWFhZGQiLCJhIjoiY2o2cTA4djgxMDR5ejMybzY1NmxkdjJ5ayJ9.MgkWfOY7Z1bUZUYLJGxKAA</string>
+    <string name="start_navigating">Start Navigating</string>
+</resources>
